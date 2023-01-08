@@ -37,25 +37,11 @@ Welcome to my GitHub profile.
  - [Stump.js](https://github.com/YodaLightsabr/stumpjs)
    - A logging system for Node.js that makes it easier to find information and debug
 
-## `> Where you can find me`
- - Replit: [@YodaCode](https://replit.com/@YodaCode)
- - Discord: [@yoda#2287](https://discord.com/users/748577964311969923)
- - NPM: [@YodaLightsabr](https://npmjs.com/~YodaLightsabr)
- - Email: [hi@yodacode.xyz](mailto:hi@yodacode.xyz?subject=Hello%20there!)
- - Website: [yodacode.xyz](https://yodacode.xyz)
-
 ## `> Languages & tools`
  - JavaScript
-   - React
-   - Next.js
-   - Node.js
-   - MongoDB
+   - React, Next.js
+   - Prisma, MongoDB, Postgres
    - Discord.js
  - HTML & CSS
- - PHP
-   - phpMyAdmin
-   - SQL
-   - Apache
- - Python
- - Ubuntu & Debian
  - Firebase
+ - A little bit of Ruby
