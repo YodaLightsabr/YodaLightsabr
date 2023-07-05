@@ -10,22 +10,22 @@ Welcome to my GitHub profile.
    - Raycast extensions
    - CLI tools
  - Full-stack web apps
-   - Next.js, Node.js, Express, React
+   - Next.js, Node.js, Express, React, Ruby on Rails
  - Discord & Slack bots
    - Discord.js, Bolt.js, [Conflict](https://github.com/yodalightsabr/conflict)
  - Frameworks
 
 ## `> What I'm working on`
- - [<img src="https://conflict.js.org/favicon.png" height="16px" style="vertical-align: text-top;"> Conflict](https://conflict.js.org)
-   - Conflict is a UI framework for Discord bots that combines JSX and user interactions with Discord.js
- - <img src="https://assets.hackclub.com/icon-rounded.svg" height="16px" style="vertical-align: text-top;"> Hack Club
-   - Trying to start a Hack Club at my school, contributing to Hack Club open source projects, and hosting events
+ - [<img src="https://assets.hackclub.com/hack-club-bank-light.svg" height="16px" style="vertical-align: text-top;"> Hack Club Bank](https://hackclub.com/bank)
+   - Interning @ Hack Club Bank to build financial features empowering teenagers & providing a toolkit to do good 
  - [<img src="https://hackoc.org/favicon.png" height="16px" style="vertical-align: text-top;"> Hack OC](https://hackoc.org)
    - Orange County's first in-person high school hackathon since the pandemic
+ - [<img src="https://conflict.js.org/favicon.png" height="16px" style="vertical-align: text-top;"> Conflict](https://conflict.js.org)
+   - Conflict is a UI framework for Discord bots that combines JSX and user interactions with Discord.js
    
 ## `> My past projects`
  - [<img src="https://assemble.hackclub.com/invert.png" height="16px" style="vertical-align: text-top;"> Assemble](https://assemble.hackclub.com)
-   - I helped organize Assemble, an in-person hackathon in San Francisco for 150+ high school students
+   - I organized Assemble, an in-person hackathon in San Francisco for 150+ high school students
  - [GitWrite](https://github.com/yodalightsabr/gitwrite)
    - Write a message on your GitHub contribution graph
  - [Canvascast](https://github.com/YodaLightsabr/extensions/tree/main/extensions/canvascast)
@@ -44,4 +44,5 @@ Welcome to my GitHub profile.
    - Discord.js
  - HTML & CSS
  - Firebase
- - A little bit of Ruby
+ - Ruby
+   - Ruby on Rails, ERB
