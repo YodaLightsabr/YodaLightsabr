@@ -17,7 +17,7 @@ Welcome to my GitHub profile.
 
 ## `> What I'm working on`
  - [<img src="https://assets.hackclub.com/hack-club-bank-light.svg" height="16px" style="vertical-align: text-top;"> Hack Club Bank](https://hackclub.com/bank)
-   - Interning @ Hack Club Bank to build financial features empowering teenagers & providing a toolkit to do good 
+   - Interning @ Hack Club Bank building financial features empowering teenagers to do good
  - [<img src="https://hackoc.org/favicon.png" height="16px" style="vertical-align: text-top;"> Hack OC](https://hackoc.org)
    - Orange County's first in-person high school hackathon since the pandemic
  - [<img src="https://conflict.js.org/favicon.png" height="16px" style="vertical-align: text-top;"> Conflict](https://conflict.js.org)
